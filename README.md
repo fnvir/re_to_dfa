@@ -47,6 +47,4 @@ A simple regex compiler in python which converts the regular expression into a d
 4. Calculate nullable, firstpost, lastpos, followpos
 5. Generate DFA from Syntax tree using the following algorithm:
     * ![algo](/assets/algo.PNG?raw=true "DFA from Syntax tree")
-* Summary
-  * ![summary](/assets/steps.PNG?raw=true "re to dfa")
 
